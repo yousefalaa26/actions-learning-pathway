@@ -1,1 +1,4 @@
-
+name: hello-world
+on: push
+jobs:
+hello-world-job:
